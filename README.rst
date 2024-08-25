@@ -19,7 +19,7 @@
 .. image:: https://img.shields.io/badge/DOI-10.1038%2Fs41592--019--0686--2-blue.svg
   :target: https://www.nature.com/articles/s41592-019-0686-2
 
-SciPy (pronounced "Sigh Pie") is an open-source software for mathematics, 
+SciPy (pronounced "Sigh Pie") is an open-source software for mathematics,
 science, and engineering. It includes modules for statistics, optimization,
 integration, linear algebra, Fourier transforms, signal and image processing,
 ODE solvers, and more.
